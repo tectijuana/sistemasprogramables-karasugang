@@ -46,3 +46,8 @@ Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos
 - Manipulación automática de objetos, por ejemplo en laboratorios, con gran precisión y rapidez en sistemas de pick and place.
 - Elevadores verticales.
 - Desplazamiento de cargas a gran precisión y velocidad.
+
+## Características
+
+Las características de control, sencillez y precisión de los accionamientos eléctricos han hecho que sean los más usados en los robots industriales actuales, como por ejemplo el uso de un robot en fabrica de autos en el pintado.
+
