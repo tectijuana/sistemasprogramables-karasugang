@@ -36,3 +36,13 @@ A su vez, estos pueden ser de tres tipos:
     - De imanes permanentes.
     - De reluctancia variables.
     - Híbridos.
+
+## Funciones de los actuadores
+Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos industriales. Aquí te detallamos algunas de sus funciones:
+
+- Sistemas de visión y corrección remota de posiciones.
+- Movimiento de brazos articulados para líneas de producción automatizadas.
+- Encolado y fresado.
+- Manipulación automática de objetos, por ejemplo en laboratorios, con gran precisión y rapidez en sistemas de pick and place.
+- Elevadores verticales.
+- Desplazamiento de cargas a gran precisión y velocidad.
