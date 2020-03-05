@@ -21,6 +21,8 @@ A continuación te detallamos los tipos de actuadores eléctricos que existen as
 
 Estos motores son los que más se emplean en la actualidad sobre todo gracias a su gran versatilidad y la facilidad de control que ofrecen. En el motor se incorpora un sensor para la posición que es el que realiza el control sobre la acción del actuador eléctrico.
 
+![MotorDC](media/a.gif)
+
 - Controlados por excitación:
 
 Se crea un campo magnético de dirección fija.
@@ -35,6 +37,8 @@ En ellos podemos distinguir dos tipos:
 
     - Síncronos.
     - Asíncronos.
+
+![MotorAC](media/b.gif)
 
 - Motores de paso a paso:
 
