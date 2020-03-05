@@ -10,22 +10,27 @@ Podemos decir que en el caso específico de los actuadores eléctricos la fuente
 ## Tipos de actuadores eléctricos.
 A continuación te detallamos los tipos de actuadores eléctricos que existen así como sus principales funciones.
 
-- Motores de corriente continua (DC)
+- Motores de corriente continua (DC):
+
 Estos motores son los que más se emplean en la actualidad sobre todo gracias a su gran versatilidad y la facilidad de control que ofrecen. En el motor se incorpora un sensor para la posición que es el que realiza el control sobre la acción del actuador eléctrico.
 
-- Controlados por excitación
+- Controlados por excitación:
+
 Se crea un campo magnético de dirección fija.
 
-- Controlados por inducción
+- Controlados por inducción:
+
 El inducido se sitúa en el estator.
 
-- Motores de corriente alterna (AC)
+- Motores de corriente alterna (AC):
+
 En ellos podemos distinguir dos tipos:
 
     - Síncronos.
     - Asíncronos.
 
-- Motores de paso a paso
+- Motores de paso a paso:
+
 A su vez, estos pueden ser de tres tipos:
 
     - De imanes permanentes.
