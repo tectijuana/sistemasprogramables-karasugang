@@ -44,7 +44,7 @@ A su vez, estos pueden ser de tres tipos:
     - De reluctancia variables.
     - Híbridos.
 
-## Funciones de los actuadores
+## Funciones de los actuadores :computer:
 Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos industriales. Aquí te detallamos algunas de sus funciones:
 
 - Sistemas de visión y corrección remota de posiciones.
