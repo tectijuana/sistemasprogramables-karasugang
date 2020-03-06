@@ -58,6 +58,14 @@ Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos
 - Elevadores verticales.
 - Desplazamiento de cargas a gran precisión y velocidad.
 
+## Ejemplos de actuadores electricos.
+
+| *Nombre*          | *Descripción*                                                                                                                                                                                                                                      | *Usos*                                                                                                     | *Precio estimado*                                              | *Datasheet*                                                              |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------|
+| Motor Paso a Paso | Dispositivo electromecánico que convierte una serie de pulsos eléctricos en desplazamientos angulares, lo que significa que es capaz de girar una cantidad de grados (paso o medio paso) dependiendo de sus entradas de control.                   | Mecanismos en donde se requieren movimientos muy precisos, como Cabezales para de discos duros, Impresoras | $ 200 Dlls.                                                    | https://www.micromo.com/media/pdfs/DM0620.pdf                            |
+| Motor AC          | Motores eléctricos que funcionan con este tipo de alimentación eléctrica, convierte la energía eléctrica en fuerzas de giro por medio de la acción mutua de los campos magnéticos.                                                                 | Compresores, Ventiladores, Lavadoras                                                                       | Dependiendo el tamaño y la capacidad De entre $10 a $150 Dlls. | http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf |
+| Motor DC          | Motor que convierte energía eléctrica en energía mecánica, mayor control sobre la velocidad, ya que puede ajustarse aplicando una resistencia variable en el inductor. Además, es posible cambiar el sentido de rotación invirtiendo la polaridad. | Máquinas extractoras, Cerraduras electronicas                                                              | $ 10 a $ 20 Dlls.                                              | https://www.micromo.com/media/pdfs/0615_S.pdf                            |
+
 ## Ventajas y Desventajas
 
 | Tipo        | Ventajas                                                                     | Desventajas                                                |
