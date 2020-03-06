@@ -58,3 +58,11 @@ Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos
 - Elevadores verticales.
 - Desplazamiento de cargas a gran precisión y velocidad.
 
+## Ventajas y Desventajas
+
+| Tipo        | Ventajas                                                                     | Desventajas                                                |
+|-------------|------------------------------------------------------------------------------|------------------------------------------------------------|
+| Eléctrico   |  - Precisos y fiables. - Silenciosos. - Control Sencillo - Fácil Instalación | - Potencia limitada                                        |
+| Mecánicos   |  - Bajo Costo. - Rapidos - Sencillos - Robustos.                             |  - Instalación especial. - Ruidosos                        |
+| Hidráulicos |  - Rapidos. - Alta Capacidad de Carga.                                       |  - Instalación especial. - Dificil de mantener - Muy Caros |
+
