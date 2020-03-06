@@ -3,7 +3,7 @@
 | Nombre | Actividad | Calificaciòn |
 |-------------|----------------|--------------|
 | Beltran Alvarado Leonardo Ulises           |                |              | 
-| d           |                |              | 
-| d           |                |              | 
-| d           |                |              | 
+| Cota Armenta Brandon Steve           |                |              | 
+| Muñoz Sánchez Priscila Cecilia           |                |              | 
+| Venegas Díaz Missael          |                |              | 
 
