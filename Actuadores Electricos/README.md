@@ -67,5 +67,5 @@ Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos
 | Hidráulicos |  - Rapidos. - Alta Capacidad de Carga.                                       |  - Instalación especial. - Dificil de mantener - Muy Caros |
 
 ## Fuentes 
-[actuadores] (http://www.dis.uia.mx/taller_industrial/blog/wp-content/uploads/2013/10/ACTUADORES.pdf)
-[Clasificacion] (https://www.micromo.com/)
+[actuadores](http://www.dis.uia.mx/taller_industrial/blog/wp-content/uploads/2013/10/ACTUADORES.pdf)
+[Clasificacion](https://www.micromo.com/)
