@@ -2,7 +2,7 @@
 
 | Nombre | Actividad | Calificaciòn |
 |-------------|----------------|--------------|
-| d           |                |              | 
+| Beltran Alvarado Leonardo Ulises           |                |              | 
 | d           |                |              | 
 | d           |                |              | 
 | d           |                |              | 
