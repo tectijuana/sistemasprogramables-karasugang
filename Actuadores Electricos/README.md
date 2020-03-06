@@ -71,7 +71,7 @@ Como hemos dicho, un actuador eléctrico está involucrado en numerosos procesos
 | Tipo        | Ventajas                                                                     | Desventajas                                                |
 |-------------|------------------------------------------------------------------------------|------------------------------------------------------------|
 | Eléctrico   |  <ul><li>Precisos y fiables.</ul></li> <ul><li>Silenciosos.</ul></li>  <ul><li> Control Sencillo</ul></li>  <ul><li>Fácil Instalación</ul></li>  | <ul><li>Potencia limitada</ul></li>                                       |
-| Mecánicos   |  <ul><li>Bajo Costo.</ul></li> <ul><li>Rapidos  <ul><li>Sencillos</ul></li> <ul><li>Robustos.</ul></li>                            |  <ul><li>Instalación especial.</ul></li>  <ul><li>Ruidosos</ul></li>                      |
+| Mecánicos   |  <ul><li>Bajo Costo.</ul></li> <ul><li>Rapidos</ul></li>  <ul><li>Sencillos</ul></li> <ul><li>Robustos.</ul></li>                            |  <ul><li>Instalación especial.</ul></li>  <ul><li>Ruidosos</ul></li>                      |
 | Hidráulicos |  <ul><li>Rapidos.</ul></li> <ul><li>Alta Capacidad de Carga.</ul></li>                                      |  <ul><li>Instalación especial.</ul></li> <ul><li>Dificil de mantener</ul></li> <ul><li>Muy Caros</ul></li> |
 
 ## Demo en MyOpenLab
